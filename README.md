@@ -1,115 +1,72 @@
-# Python Fundamentals – 60 Practice Exercises
+# Python Fundamentals & Data Structures – 100 Practice Exercises
 
 ## Overview
 
-This repository contains a collection of **60 Python programming exercises** completed as part of my Python fundamentals practice.
+This repository contains **100 Python practice exercises** completed as part of my Python fundamentals learning.
 
-The assignment progresses from basic Python concepts such as variables, data types, operators, conditions, and loops to more advanced topics including functions, lambda expressions, variable scope, `*args`, `**kwargs`, and decorators.
+It includes:
 
-The later exercises also introduce programming concepts in an **AI and Machine Learning context**, including model accuracy, prediction errors, MAE, MSE, training epochs, loss reduction, thresholds, and simple training simulations.
+- **Assignment 1:** 60 Python Fundamentals exercises
+- **Assignment 2:** 40 Python Data Structures exercises
 
-The purpose of this repository is to strengthen my Python foundation before applying these concepts to larger Machine Learning and AI projects.
+The exercises cover core Python concepts and also use simple AI/ML-style examples.
 
 ---
 
 ## Topics Covered
 
-### Python Basics
-- Variables and values
-- Integers, floats, and strings
-- Type conversion
-- User input
-- Arithmetic operators
-- Comparison operators
-- Logical operators
-
-### Conditional Statements
-- `if`
-- `elif`
-- `else`
-- Nested decision logic
-- Multiple conditions
-
-### Loops
-- `for` loops
-- `while` loops
-- `range()`
-- `break`
-- `continue`
-- Counters and accumulators
-
-### Functions
-- Function definitions
-- Parameters and arguments
-- Return values
-- Default parameters
-- Local variables
-- Global variables
-- `global` keyword
-
-### Advanced Function Concepts
-- `*args`
-- `**kwargs`
+### Python Fundamentals
+- Variables and data types
+- Operators
+- Conditional statements
+- `for` and `while` loops
+- Functions
+- Parameters and return values
+- Local and global scope
+- `*args` and `**kwargs`
 - Lambda functions
-- Functions as arguments
 - Decorators
-- Wrapper functions
+
+### Python Data Structures
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Nested dictionaries
+- Filtering and counting values
+- Set operations
+- Dictionary merging
 
 ### AI / Machine Learning Practice
-- Model accuracy
-- Model score comparison
+- Model scores
 - Actual vs predicted values
-- Absolute error
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Squared error
+- MAE and MSE
+- Accuracy and F1-score
+- Model comparison
+- Hyperparameters
 - Training epochs
 - Loss reduction
-- Early stopping
-- Model acceptance thresholds
-- Mini model-training simulations
-
----
-
-The Jupyter Notebook contains the 60 exercises along with my implementations and practice code.
+- Feature-related practice
 
 ---
 
 ## Learning Outcomes
 
-After completing these exercises, I gained hands-on practice with:
+Through these exercises, I practiced:
 
-- Writing and executing Python programs
-- Working with different data types
-- Using conditional logic
-- Building `for` and `while` loops
+- Writing Python programs
+- Using loops and conditions
 - Creating reusable functions
-- Understanding parameters, arguments, and return values
-- Understanding local and global scope
-- Using `*args` and `**kwargs`
-- Writing lambda functions
-- Understanding basic decorators
-- Applying Python logic to AI/ML-style problems
-- Calculating simple model evaluation metrics
-- Simulating epochs, loss reduction, and early stopping
-- Combining multiple Python concepts into larger programs
+- Working with Python data structures
+- Solving logic-based problems
+- Applying Python concepts to simple AI/ML examples
 
 ---
 
 ## Purpose
 
-This is a **learning-focused repository** created to document my progress in Python programming.
-
-These exercises form part of my foundation for further work in:
-
-- Machine Learning
-- Artificial Intelligence
-- Data Processing
-- Model Evaluation
-- AI Application Development
-
-The focus of this assignment is understanding the programming logic behind each solution rather than relying on external libraries or advanced frameworks.
+This repository documents my progress in building a strong Python foundation before moving into larger Machine Learning and AI projects.
 
 ---
 
-Built as part of my journey toward developing strong Python, Machine Learning, and AI development skills.
+Built as part of my journey toward **Python, Machine Learning, and AI development**.
